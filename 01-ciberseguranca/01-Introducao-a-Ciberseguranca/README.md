@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1D3A,50:1A365D,100:2A4365&height=220&section=header&text=Introdu%C3%A7%C3%A3o%20%C3%A0%20Ciberseguran%C3%A7a&fontSize=42&fontColor=FFFFFF&fontAlignY=35&desc=M%C3%B3dulo%2001%20%7C%20Forma%C3%A7%C3%A3o%20Mulher%20Digital%20%26%20Cisco%20NetAcad&descAlignY=55&descSize=18&descColor=58A6FF&animation=fadeIn" width="100%" />
 
 <img src="https://img.shields.io/badge/Cisco_NetAcad-161B22?style=for-the-badge&logo=cisco&logoColor=58A6FF" />
-<img src="https://img.shields.io/badge/Tríade_CIA-161B22?style=for-the-badge&logo=shield&logoColor=58A6FF" />
+<img src="https://img.shields.io/badge/Triade_CIA-161B22?style=for-the-badge&logo=shield&logoColor=58A6FF" />
 <img src="https://img.shields.io/badge/Mulher_Digital-161B22?style=for-the-badge&logo=gitbook&logoColor=58A6FF" />
 
 </div>
@@ -48,7 +48,7 @@ A base de qualquer política de segurança da informação fundamenta-se em trê
 ## ⚙️ Práticas & Higiene Digital
 
 ```text
-  [ Identificação de Ameaça ] ──> [ Análise de Risco ] ──> [ Aplicação de Controles ]
+[ Identificação de Ameaça ] ──> [ Análise de Risco ] ──> [ Aplicação de Controles ]
                                                                    │
                                            ┌───────────────────────┴───────────────────────┐
                                            ▼                                               ▼
