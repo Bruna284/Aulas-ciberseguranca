@@ -26,8 +26,3 @@ Este repositório foi criado para documentar e organizar toda a minha jornada de
 | 🧪 **06 - Laboratórios & Práticas** | Ambientes simulados no VirtualBox e relatórios de atividades práticas. | 🟡 Em Andamento |
 
 ---
-
-
-
-│   └── imagens/
-└── README.md
