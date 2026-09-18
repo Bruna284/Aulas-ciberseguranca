@@ -13,11 +13,3 @@
 ## 📌 Visão Geral da Subpasta
 Esta pasta contém os registros e scripts das práticas realizadas no **Cisco Packet Tracer**. Os laboratórios focam na construção de topologias de rede, atribuição de endereçamento IPv4, configuração de serviços de rede (DHCP, DNS) e aplicação de diretrizes de segurança no sistema operacional Cisco IOS.
 
----
-
-## 🛠️ Topologia do Laboratório Principal
-
-```text
- [ PC-01 ] ─── (Fa0/1) ┐
-                      ├──> [ Switch SW-01 ] ─── (Gi0/0/1 ──── Gi0/0/0) ───> [ Roteador R1 ] ───> [ Servidor Web/DNS ]
- [ PC-02 ] ─── (Fa0/2) ┘      (VLAN 1)                                       (Gateway)              (192.168.1.200)
